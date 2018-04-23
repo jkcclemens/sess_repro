@@ -1,0 +1,8 @@
+[package]
+name = "sess"
+version = "0.1.0"
+authors = ["Kyle Clemens <git@kyleclemens.com>"]
+
+[dependencies]
+rocket = { git = "https://github.com/SergioBenitez/Rocket" }
+string_cache = "0.7"
